@@ -21,3 +21,7 @@ Open the logo.svg file in a browser to view the generated logo.
 # Testing
 
 The application uses Jest for running unit tests. Each shape class (Triangle, Circle, and Square) is thoroughly tested to ensure proper functionality.
+
+# Walkthrough Video
+
+[Click Here](https://drive.google.com/file/d/1FeuGs9ZV9b-_oa2eol-UJ5SI3p3qM0_U/view?usp=sharing) to watch a walkthrough video of the application.
